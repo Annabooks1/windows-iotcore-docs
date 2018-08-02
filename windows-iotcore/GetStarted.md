@@ -32,17 +32,17 @@ Want to learn more about our two offerings, Windows 10 IoT Enterprise and Window
 <tbody>
 
 <tr class="odd">
-<td align="left"><p>[Windows IoT Overview](windows-iot.md)</p></td>
+<td align="left"><p><a href="windows-iot.md" data-raw-source="[Windows IoT Overview](windows-iot.md)">Windows IoT Overview</a></p></td>
 <td align="left"><p>Compare our two Windows 10 IoT products and see which solution is the right fit for you.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Windows 10 IoT Enterprise Overview](windows-iot-enterprise.md)</p></td>
+<td align="left"><p><a href="windows-iot-enterprise.md" data-raw-source="[Windows 10 IoT Enterprise Overview](windows-iot-enterprise.md)">Windows 10 IoT Enterprise Overview</a></p></td>
 <td align="left"><p>Learn more about how to get started with Windows 10 IoT Enterprise.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Windows 10 IoT Core Overview](windows-iot-core.md)</p></td>
+<td align="left"><p><a href="windows-iot-core.md" data-raw-source="[Windows 10 IoT Core Overview](windows-iot-core.md)">Windows 10 IoT Core Overview</a></p></td>
 <td align="left"><p>Learn more about how to get started with Windows 10 IoT Core.</p></td>
 </tr>
 
@@ -75,42 +75,42 @@ Because this is a path that goes beyond educational or personal/non-commercial p
 <tbody>
 
 <tr class="odd">
-<td align="left"><p>[SoCs and Custom Boards](learn-about-hardware/SoCsAndCustomBoards.md)</p></td>
+<td align="left"><p><a href="learn-about-hardware/SoCsAndCustomBoards.md" data-raw-source="[SoCs and Custom Boards](learn-about-hardware/SoCsAndCustomBoards.md)">SoCs and Custom Boards</a></p></td>
 <td align="left"><p>Learn about the different SoCs and SOMs you can work with to build your Windows 10 IoT Core solution.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[OEM License Requirements](commercialize-your-device/oemlicenserequirements.md)</p></td>
+<td align="left"><p><a href="commercialize-your-device/oemlicenserequirements.md" data-raw-source="[OEM License Requirements](commercialize-your-device/oemlicenserequirements.md)">OEM License Requirements</a></p></td>
 <td align="left"><p>Sign the OEM license agreement and learn more about other requirements for commercialization.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Commercialization Agreement FAQ](commercialize-your-device/Agreement-FAQ.md)</p></td>
+<td align="left"><p><a href="commercialize-your-device/Agreement-FAQ.md" data-raw-source="[Commercialization Agreement FAQ](commercialize-your-device/Agreement-FAQ.md)">Commercialization Agreement FAQ</a></p></td>
 <td align="left"><p>Read some of the frequently-asked questions regarding the Windows 10 IoT Core Commercialization agreement.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Create board supported packages](build-your-image/createbsps.md)</p></td>
+<td align="left"><p><a href="build-your-image/createbsps.md" data-raw-source="[Create board supported packages](build-your-image/createbsps.md)">Create board supported packages</a></p></td>
 <td align="left"><p>Learn how to create board supported packages (BSPs) for Windows 10 IoT Core.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Create and install a package](build-your-image/createinstallpackage.md)</p></td>
+<td align="left"><p><a href="build-your-image/createinstallpackage.md" data-raw-source="[Create and install a package](build-your-image/createinstallpackage.md)">Create and install a package</a></p></td>
 <td align="left"><p>Learn how to create and install packages for your device.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Creating test and retail images](https://docs.microsoft.com/en-us/windows-hardware/manufacture/iot/iot-core-manufacturing-guide)</p></td>
+<td align="left"><p><a href="https://docs.microsoft.com/en-us/windows-hardware/manufacture/iot/iot-core-manufacturing-guide" data-raw-source="[Creating test and retail images](https://docs.microsoft.com/en-us/windows-hardware/manufacture/iot/iot-core-manufacturing-guide)">Creating test and retail images</a></p></td>
 <td align="left"><p>With the Windows 10 IoT Core manufacturing guide, learn how to create test images - great for trying out new ideas and designs - and retail images - for more final device designs.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Installing and servicing apps](commercialize-your-device/installingandservicing.md)</p></td>
+<td align="left"><p><a href="commercialize-your-device/installingandservicing.md" data-raw-source="[Installing and servicing apps](commercialize-your-device/installingandservicing.md)">Installing and servicing apps</a></p></td>
 <td align="left"><p>Learn how to install and service UWP apps on Windows 10 IoT Core through the Microsoft Store.</p></td>
 </tr>
 
 <tr class="odd">
-<td align="left"><p>[Windows 10 IoT Core feature list](https://docs.microsoft.com/en-us/windows-hardware/manufacture/iot/iot-core-feature-list)</p></td>
+<td align="left"><p><a href="https://docs.microsoft.com/en-us/windows-hardware/manufacture/iot/iot-core-feature-list" data-raw-source="[Windows 10 IoT Core feature list](https://docs.microsoft.com/en-us/windows-hardware/manufacture/iot/iot-core-feature-list)">Windows 10 IoT Core feature list</a></p></td>
 <td align="left"><p>Learn about the different test and retail features as defined by Microsoft for your Windows 10 IoT Core images.</p></td>
 </tr>
 
